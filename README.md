@@ -1,21 +1,22 @@
-# Kanyamibwa-Lydia
 <h1 align="center">Hi 👋, I'm Lydia Kanyamibwa</h1>
-<h3 align="center">Full-Stack Developer in Training | React • TypeScript • Node.js</h3>
+<h3 align="center">Junior Software Developer | Full-Stack Web Developer</h3>
 
 <p align="center">
 📍 Kigali, Rwanda <br>
-💻 Full-Stack Developer | Web Application Builder
+💻 React • TypeScript • Node.js • PostgreSQL
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Full-Stack Developer in Training** studying **Business Information and Communication Technology** at Mount Kigali University and learning advanced software development at **K-Lab**.
+I am a **Junior Software Developer** with a background in **Business Information and Communication Technology** at Mount Kigali University and a **completed Full-Stack Software Development program at K-Lab**.
 
-I focus on building **modern, scalable, and user-friendly web applications** using technologies like **React, TypeScript, Node.js, and PostgreSQL**.
+I specialize in building **modern full-stack web applications** using technologies like **React, TypeScript, Node.js, Express, and PostgreSQL**.
 
-My goal is to grow as a professional software engineer and contribute to building digital products that improve efficiency and user experience.
+During my training, I participated in a **software development hackathon where my team’s project, UmuhinziHub, achieved First Runner-Up**. The platform was designed to help small-scale farmers and beginners access farming guidance.
+
+I enjoy creating digital solutions that combine **technology and business knowledge** to improve efficiency and user experience.
 
 ---
 
@@ -41,12 +42,25 @@ My goal is to grow as a professional software engineer and contribute to buildin
 
 ## 📂 Featured Projects
 
+### 🌱 UmuhinziHub (Hackathon Project – First Runner-Up)
+
+A platform designed to help **small-scale farmers and beginners access farming knowledge and guidance**.
+
+Features:
+
+- Digital farming guidance platform
+- Practical information for beginner farmers
+- Built as part of a competitive hackathon project
+
+---
+
 ### 🌐 Personal Portfolio Website
+
 **Tech:** HTML • CSS • JavaScript
 
-- Designed and built a responsive portfolio website
-- Showcases projects and development progress
-- Implemented responsive layouts and clean UI design
+- Designed and developed a responsive portfolio website
+- Showcases projects, skills, and development journey
+- Focused on responsive layout and clean UI
 
 ---
 
@@ -56,29 +70,11 @@ My goal is to grow as a professional software engineer and contribute to buildin
 
 Features:
 
-- Full product catalog
+- Product catalog
 - RESTful API architecture
 - Database integration
-- Responsive user interface
+- Responsive frontend
 - Backend API development
-
----
-
-## 📚 Currently Learning
-
-- Advanced React development
-- Backend architecture with Node.js
-- PostgreSQL database design
-- API authentication and security
-- Full-stack deployment
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lydiakanyamibwa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiakanyamibwa&layout=compact&theme=tokyonight)
 
 ---
 
@@ -90,4 +86,4 @@ I am open to collaborating on **full-stack web development projects, open-source
 
 ---
 
-⭐ *Building modern web applications and continuously improving as a developer.*
+⭐ *Building practical digital solutions through full-stack development.*
