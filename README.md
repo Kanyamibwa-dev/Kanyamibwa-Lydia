@@ -6,7 +6,6 @@
 💻 React • TypeScript • Node.js • PostgreSQL
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -37,7 +36,6 @@ I enjoy creating digital solutions that combine **technology and business knowle
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
 
 ## 📂 Featured Projects
 
@@ -51,7 +49,6 @@ Features:
 - Practical information for beginner farmers
 - Built as part of a competitive hackathon project
 
----
 
 ### 🌐 Personal Portfolio Website
 
@@ -61,7 +58,6 @@ Features:
 - Showcases projects, skills, and development journey
 - Focused on responsive layout and clean UI
 
----
 
 ### 🛒 Full-Stack E-Commerce Application
 
@@ -75,7 +71,6 @@ Features:
 - Responsive frontend
 - Backend API development
 
----
 
 ## 🤝 Collaboration
 
