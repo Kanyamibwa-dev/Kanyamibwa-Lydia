@@ -18,7 +18,6 @@ During my training, I participated in a **software development hackathon where m
 
 I enjoy creating digital solutions that combine **technology and business knowledge** to improve efficiency and user experience.
 
----
 
 ## 🛠 Full-Stack Technologies
 
